@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['24106813542'] //ur owner number
-global.ownername = "YARANUSTRAS " //ur owner name
+global.vcardowner = ['923084713397'] //ur owner number
+global.ownername = "𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒" //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Pakistan" //ur location
 
 //bot bomdy 
-global.owner = ['24106813542']
-global.ownertag = '24106813542' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 YARANOS✫ ✫ ✫' //ur bot name
+global.owner = ['923084713397']
+global.ownertag = '923084713397' //ur tag number
+global.botname = '𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒' //ur bot name
 global.linkz = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/ESSOYA/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/ESSOYA/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😉" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "bot-𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒" //ur sticker watermark packname
 global.author = "Kaveesha sithum" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['234089700175'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
